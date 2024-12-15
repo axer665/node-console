@@ -1,0 +1,19 @@
+{
+  "name": "current-datetime",
+  "version": "1.0.0",
+  "main": "current.js",
+  "bin": {
+    "cmd": "index.js",
+    "gameNumbers": "game.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "axer665",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "yargs": "^17.7.2",
+    "readline-promise": "^1.0.5"
+  }
+}
